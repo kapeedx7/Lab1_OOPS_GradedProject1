@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kapee
+ *
+ */
+module EmployeeEmailApp {
+}
